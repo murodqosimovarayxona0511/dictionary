@@ -1,0 +1,62 @@
+
+No1# talaba={'ism':'Rayhona','yosh':18,'kurs':1,'baholar royhati':"95,92,95,90"}
+# print(f"{talaba['ism']} {talaba['yosh']}-yoshda {talaba['kurs']}-kurs baholar- {talaba['baholar royhati']}")
+# No2
+# print(f"{talaba['ism']} {talaba['yosh']} yoshda")
+  # No3
+# talaba['telefon raqam']=+998886470902
+# print(talaba)
+# No4
+# talaba['yosh']=19
+# print(talaba)
+ No5
+# del talaba['kurs']
+# print(talaba)  
+# No6
+# talaba1={}
+# if talaba==talaba1:
+#     print('bosh lugat')
+# else:
+#     print('mavjud lugat')
+  # No7
+# for key in sorted(talaba):
+#   print(key)
+# No8
+# for values in sorted(talaba):
+    # print(values)
+# N09
+# for key,value in sorted(talaba.items()):
+#     print(f"{key.title()}-{value}")
+# No10
+# talabalar={
+#     "Ali":{'yosh':20,'kurs':2},
+#     "Laylo":{'yosh':19,'kurs':1}}
+# talabalar['Laylo']['kurs']=2
+# print(talabalar)
+  # No11
+# baholar={'Ali':88,'Vali':92,'Laylo':95,'Hasan':90}
+# engkatta=max(baholar.values())
+# print('eng katta baho:',engkatta)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
