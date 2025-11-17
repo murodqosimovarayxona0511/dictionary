@@ -1,0 +1,23 @@
+1.talabalar={'Ali':[90,98,67,87,90],
+ 'Vali':[67,78,89,95,99,80],'Laylo':[56,79,90,90,97,95]}
+for key,value in talabalar.items():
+    ortachaqiymat=sum(value)/len(value)
+    print(f"talaba {key}ning ortacha bahosi={ortachaqiymat}")
+
+
+
+narh=0
+mahsulotlar={"ruchka":2000,"qalam":2000,"daftar":3000,"kitob":15000}
+if mahsulotlar["ruchka"]:
+    narh=narh+mahsulotlar["ruchka"]
+    print('ruchka olindi')
+if mahsulotlar["qalam"]:
+    narh=narh+mahsulotlar["qalam"]
+    print('qalam olindi')
+if mahsulotlar["daftar"]:
+    narh=narh+mahsulotlar["daftar"]
+    print('daftar olindi')
+if mahsulotlar["kitob"]:
+    narh=narh+mahsulotlar["kitob"]
+    print('kitob olindi')
+print(f'jami{narh} som')
