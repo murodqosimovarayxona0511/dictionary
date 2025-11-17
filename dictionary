@@ -37,6 +37,11 @@ No1# talaba={'ism':'Rayhona','yosh':18,'kurs':1,'baholar royhati':"95,92,95,90"}
 # baholar={'Ali':88,'Vali':92,'Laylo':95,'Hasan':90}
 # engkatta=max(baholar.values())
 # print('eng katta baho:',engkatta)
+# No12
+# talaba1={"ism":"Ali","yosh":18}
+# talaba2={"kurs":2,"manzil":"Jizzax"}
+# talaba1.update(talaba2)
+# print(talaba1)
 
 
 
